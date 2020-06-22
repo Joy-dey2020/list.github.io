@@ -1,0 +1,71 @@
+.one{
+ 
+list-style-image: url(images/iconfinder_-04_3057625.png);
+    list-style-position: inside;
+    box-sizing: content-box;  
+  width: 100px;
+  height: 70px;
+  padding: 30px;  
+
+}
+.two{
+    
+list-style-image:url(images/iconfinder_-05_3057695.png);
+    box-sizing: content-box;  
+  width: 100px;
+  height: 150px;
+  padding: 30px;  
+    list-style-position: inside;
+    
+}
+.ul{
+    
+    display: table-column-group;
+    direction: ltr;
+}
+
+.three{
+    
+list-style-image:url(images/iconfinder_-13_3057628.png);
+    box-sizing: content-box;  
+  width: 100px;
+  height: 150px;
+  padding: 30px;  
+    list-style-position: inside;
+}
+.four{
+    
+list-style-image:url(images/iconfinder_12_avatar_2754577.png);
+    box-sizing: content-box;  
+  width: 100px;
+  height: 150px;
+  padding: 30px;  
+    list-style-position: inside;
+}
+.five{
+    
+list-style-image:url(images/iconfinder_icon_animal_leao_3316544.png);
+    box-sizing: content-box;  
+  width: 100px;
+  height: 150px;
+  padding: 30px;  
+    list-style-position: inside;
+}
+.six{
+    
+list-style-image:url(images/iconfinder_icon_animal_tigre_3316551.png);
+    box-sizing: content-box;  
+  width: 100px;
+  height: 150px;
+  padding: 30px;  
+    list-style-position: inside;
+}
+.seven{
+    
+list-style-image:url(images/iconfinder_social-06_3146788.png);
+    box-sizing: content-box;  
+  width: 100px;
+  height: 150px;
+  padding: 30px;  
+    list-style-position: inside;
+}
